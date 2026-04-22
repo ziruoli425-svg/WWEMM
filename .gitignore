@@ -1,0 +1,5 @@
+﻿.idea/
+__pycache__/
+catboost_info/
+outputs_catboost_gridsearch/
+*.pyc
